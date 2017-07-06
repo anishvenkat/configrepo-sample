@@ -1,4 +1,4 @@
 {
     "name" : "defaultGroup",
-    "pipelines" : [ "foo" ]
+    "pipelines" : [ "foo","atlassian"]
 }
